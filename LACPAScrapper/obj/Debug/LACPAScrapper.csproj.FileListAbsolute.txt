@@ -1,0 +1,6 @@
+c:\users\osama\documents\visual studio 2017\Projects\LACPAScrapper\LACPAScrapper\obj\Debug\LACPAScrapper.csprojResolveAssemblyReference.cache
+C:\Users\osama\documents\visual studio 2017\Projects\LACPAScrapper\LACPAScrapper\bin\Debug\LACPAScrapper.exe.config
+C:\Users\osama\documents\visual studio 2017\Projects\LACPAScrapper\LACPAScrapper\bin\Debug\LACPAScrapper.exe
+C:\Users\osama\documents\visual studio 2017\Projects\LACPAScrapper\LACPAScrapper\bin\Debug\LACPAScrapper.pdb
+C:\Users\osama\documents\visual studio 2017\Projects\LACPAScrapper\LACPAScrapper\obj\Debug\LACPAScrapper.exe
+C:\Users\osama\documents\visual studio 2017\Projects\LACPAScrapper\LACPAScrapper\obj\Debug\LACPAScrapper.pdb
